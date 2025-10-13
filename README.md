@@ -18,9 +18,24 @@
 
 **a Command Line Interface (CLI) tool that generates pixel art images**
 
-[Installation](#-installation) • [Usage](#-usage) • [Format](#-format)
+[Showcase](#-showcase) • [Installation](#-installation) • [Usage](#-usage) • [Format](#-format)
 
 </div>
+
+## 🌟 Showcase
+
+<details open>
+<summary>A collection of projects that use <code>PIXELATE</code> for their icons.</summary>
+
+- [hanson.hschang](https://hanson-hschang.github.io/) - Personal website of the author
+- [Persona Zola Theme](https://hanson-hschang.github.io/persona-zola-theme/) - A theme for the Zola static site generator
+- [LaTeX Document Package](https://github.com/hanson-hschang/LaTeX-Document-Package) - A $\LaTeX$ package for document formatting
+- [LaTeX Presentation Theme](https://github.com/hanson-hschang/LaTeX-Presentation-Theme) - A $\LaTeX$ beamer theme for presentations
+- [Signal-System](https://github.com/hanson-hschang/Signal-System) - A Python library for Signal & System simulation, design, analysis, and learning
+
+</details>
+
+> <p align="center">Want to share your project? <a href="https://github.com/hanson-hschang/pixelate/pulls">Open a pull request!</a></p>
 
 
 ## 📦 Installation

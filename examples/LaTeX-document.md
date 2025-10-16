@@ -1,5 +1,5 @@
 +++
-"1" = "#FFFFFF"  # Black
+"1" = "#000000"  # Black
 "0" = "#00000000"  # Transparent
 +++
 

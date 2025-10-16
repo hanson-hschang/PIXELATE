@@ -30,7 +30,7 @@
 - [hanson.hschang](https://hanson-hschang.github.io/) - Personal website of the author
 - [Persona Zola Theme](https://hanson-hschang.github.io/persona-zola-theme/) - A theme for the Zola static site generator
 - [LaTeX Document Package](https://github.com/hanson-hschang/LaTeX-Document-Package) - A $\LaTeX$ package for document formatting
-- [LaTeX Presentation Theme](https://github.com/hanson-hschang/LaTeX-Presentation-Theme) - A $\LaTeX$ beamer theme for presentations
+- [LaTeX Beamer Theme](https://github.com/hanson-hschang/LaTeX-Beamer-Theme) - A $\LaTeX$ beamer theme for presentations
 - [Signal-System](https://github.com/hanson-hschang/Signal-System) - A Python library for Signal & System simulation, design, analysis, and learning
 
 </details>
